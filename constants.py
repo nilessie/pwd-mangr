@@ -3,7 +3,7 @@ import string
 # Allowed characters
 SPECIAL_CHARS = string.punctuation
 NUMERIC_CHARS = string.digits
-LOWERCASE_LETTER_CHARS = string.ascii_uppercase
+LOWERCASE_LETTER_CHARS = string.ascii_lowercase
 UPPERCASE_LETTER_CHARS = string.ascii_uppercase
 
 # Password length limits
